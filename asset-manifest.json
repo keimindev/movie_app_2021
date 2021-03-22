@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/movie_app_2021/static/css/main.fece634d.chunk.css",
+    "main.js": "/github.io/movie_app_2021/static/js/main.35814f55.chunk.js",
+    "main.js.map": "/github.io/movie_app_2021/static/js/main.35814f55.chunk.js.map",
+    "runtime-main.js": "/github.io/movie_app_2021/static/js/runtime-main.3713420d.js",
+    "runtime-main.js.map": "/github.io/movie_app_2021/static/js/runtime-main.3713420d.js.map",
+    "static/js/2.e000b658.chunk.js": "/github.io/movie_app_2021/static/js/2.e000b658.chunk.js",
+    "static/js/2.e000b658.chunk.js.map": "/github.io/movie_app_2021/static/js/2.e000b658.chunk.js.map",
+    "index.html": "/github.io/movie_app_2021/index.html",
+    "static/css/main.fece634d.chunk.css.map": "/github.io/movie_app_2021/static/css/main.fece634d.chunk.css.map",
+    "static/js/2.e000b658.chunk.js.LICENSE.txt": "/github.io/movie_app_2021/static/js/2.e000b658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3713420d.js",
+    "static/js/2.e000b658.chunk.js",
+    "static/css/main.fece634d.chunk.css",
+    "static/js/main.35814f55.chunk.js"
+  ]
+}
